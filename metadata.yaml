@@ -1,0 +1,40 @@
+_repo: The-mothercraft-manual_70887
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Read, Mary L. (Mary Lillian)
+    birthdate: 1878
+    gutenberg_agent_id: '55913'
+    url: http://www.gutenberg.org/2009/agents/55913
+description: ''
+gutenberg_issued: '2023-05-31'
+identifiers:
+  gutenberg: '70887'
+language: en
+pgterms:marc904: https://archive.org/details/mothercraftmanua00read/page/n7/mode/2up
+pgterms:marc905: 20200726072704read
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Bob Taylor, ellinora and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bLittle, Brown, and Company, $c1916, pubdate
+  1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child development'
+- !lcsh 'Child care'
+- !lcsh 'Mothers'
+- !lcc 'HQ'
+- GITenberg
+tableOfContents: 'Mothercraft: its meaning, scope, and spirit -- Establishing the
+  home -- Finding the means for mothercraft -- Founding a family -- Growth and development
+  -- Preparing for the baby -- Care of the baby -- The physical care of young children
+  -- The feeding of children -- The education of the little child -- Studying the
+  individual child -- A curriculum for babyhood and early childhood -- Play -- Games
+  -- The toy age -- Story-telling -- Science and history -- Handwork -- Music and
+  art -- Home nursing and first aid in the nursery.'
+title: The mothercraft manual
+url: http://www.gutenberg.org/ebooks/70887
