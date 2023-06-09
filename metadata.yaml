@@ -1,5 +1,8 @@
 _repo: The-mothercraft-manual_70887
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70887-h/images/cover.jpg
 creator:
   author:
     agent_name: Read, Mary L. (Mary Lillian)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '55913'
     url: http://www.gutenberg.org/2009/agents/55913
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70887#The-mothercraft-manual
 gutenberg_issued: '2023-05-31'
 identifiers:
   gutenberg: '70887'
